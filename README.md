@@ -9,12 +9,11 @@ Qui raccolgo alcuni progetti realizzati in Python durante il mio percorso di stu
 ## 🔐 Generatore di password
 Un programma che crea password sicure e personalizzabili.  
 **Funzionalità principali:**
-- Lunghezza variabile
-- Scelta tra lettere, numeri e simboli
+- Lunghezza di 16 caratteri 
 - Generazione casuale con controllo di sicurezza
 
-📁 File: `password_generator.py`
-
+📁 File:
+[generatore_password.py](https://github.com/user-attachments/files/28227322/generatore_password.py)
 ---
 
 ## 📘 Risolutore di limiti
@@ -25,15 +24,15 @@ Script che calcola e spiega passo per passo i limiti di funzioni matematiche.
 - Spiegazione testuale del procedimento
 
 📁 File: `limiti_spiegati.py`
-
+[limiti.py](https://github.com/user-attachments/files/28227340/limiti.py)
 ---
 
 ## 💡 Obiettivo
-Mostrare la mia crescita come programmatore e la mia passione per la matematica applicata alla programmazione.
+Mostrare la mia crescita come programmatore e la mia passione per la matematica per lo studio della fisica applicata alla programmazione.
 
 ---
 
 ✉️ **Contatti**
 - GitHub: [matteofilippi1710](https://github.com/matteofilippi1710)
-- Email: *puoi aggiungere la tua se vuoi renderla pubblica*
+- Email: matteogithub@outlook.it
 
