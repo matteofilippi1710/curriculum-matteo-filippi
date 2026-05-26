@@ -14,7 +14,7 @@ Un programma che crea password sicure e personalizzabili.
 - Generazione casuale con controllo di sicurezza
 
 📁 File:
-C:\Users\mattf\OneDrive\Desktop\Password_Generator\Password_Generator.py
+
 ---
 ## 📘 Risolutore di limiti
 Script che calcola e spiega passo per passo i limiti di funzioni matematiche.  
