@@ -9,7 +9,8 @@ Qui raccolgo alcuni progetti realizzati in Python durante il mio percorso di stu
 ## 🔐 Generatore di password
 Un programma che crea password sicure e personalizzabili.  
 **Funzionalità principali:**
-- Lunghezza di 16 caratteri 
+- Lunghezza che preferisci
+- scelta di caratteri, numeri e caratteri speciali ((a-z),(A-Z),(0-9)...)
 - Generazione casuale con controllo di sicurezza
 
 📁 File:
