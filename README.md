@@ -14,7 +14,7 @@ Un programma che crea password sicure e personalizzabili.
 - Generazione casuale con controllo di sicurezza
 
 📁 File:🔗 Password_Generator
-[![GitHub](https://img.shields.io/badge/Repository-Password__Generator-green?style=flat)](.)
+Password_Generator.py
 
 ---
 ## 📘 Risolutore di limiti
