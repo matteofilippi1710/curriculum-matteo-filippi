@@ -13,8 +13,8 @@ Un programma che crea password sicure e personalizzabili.
 - scelta di caratteri, numeri e caratteri speciali ((a-z),(A-Z),(0-9)...)
 - Generazione casuale con controllo di sicurezza
 
-📁 File:🔗 [Password Generator](./password_generator.py)
-
+📁 File:🔗 Password_Generator
+[Password Generator](https://github.com/user-attachments/files/XXXXXXXX/password_generator.py)
 
 ---
 ## 📘 Risolutore di limiti
